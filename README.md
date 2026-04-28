@@ -1,2 +1,2 @@
 # sandbox
-A Sample Repository
+A Sample Repository created for practice
